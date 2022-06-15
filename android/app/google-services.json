@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953548148377",
+    "project_id": "authantification-6ee33",
+    "storage_bucket": "authantification-6ee33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953548148377:android:69fc976e0ba552ece8b208",
+        "android_client_info": {
+          "package_name": "com.example.my_immo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953548148377-mgf5aaemrsv5rvthjjk6d2lpk2b5c86a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNXE335Zq8VYrHqp5OizQX7MnlLTj02Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953548148377-mgf5aaemrsv5rvthjjk6d2lpk2b5c86a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
